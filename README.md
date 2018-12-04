@@ -2,11 +2,13 @@ Partiel 2018-2019 -- P2021, Rayan Bassetti
 
 Consignes : Ecrire dans un README.md les améliorations possibles afin d'avoir le workflow le plus simple possible.
 
-Link to my github repo : https://github.com/RayanBassetti/DevOpsPartiel2021
+Link to my github repo : 
+- https://github.com/RayanBassetti/DevOpsPartiel2021
 
-Link to my Heroku apps : https://dashboard.heroku.com/apps/app-partiel-development-wsf
-                         https://dashboard.heroku.com/apps/app-partiel-staging-wsf
-                         https://dashboard.heroku.com/apps/app-partiel-production-wsf
+Link to my Heroku apps : 
+- https://dashboard.heroku.com/apps/app-partiel-development-wsf
+- https://dashboard.heroku.com/apps/app-partiel-staging-wsf
+- https://dashboard.heroku.com/apps/app-partiel-production-wsf
 
 What can be improved : 
 - Attacher le stagiaire derrière une voiture, et lui refaire faire les tests unitaires du fichier Go
