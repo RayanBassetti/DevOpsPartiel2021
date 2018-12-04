@@ -1,6 +1,6 @@
 # Create a Heroku pipeline
 resource "heroku_pipeline" "test-app" {
-  name = "pipeline-wsf-apps"
+  name = "pipeline-wsf-apps-partiel"
 }
 
 # Couple apps to different pipeline stages
