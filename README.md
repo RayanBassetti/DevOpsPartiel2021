@@ -6,9 +6,9 @@ Link to my github repo :
 - https://github.com/RayanBassetti/DevOpsPartiel2021
 
 Link to my Heroku apps : 
-- https://dashboard.heroku.com/apps/app-partiel-development-wsf
-- https://dashboard.heroku.com/apps/app-partiel-staging-wsf
-- https://dashboard.heroku.com/apps/app-partiel-production-wsf
+- https://app-partiel-development-wsf.herokuapp.com/
+- https://app-partiel-staging-wsf.herokuapp.com/
+- https://app-partiel-production-wsf.herokuapp.com/
 
 What can be improved : 
 - Attacher le stagiaire derrière une voiture, et lui refaire faire les tests unitaires du fichier Go
