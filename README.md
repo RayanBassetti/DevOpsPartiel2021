@@ -18,5 +18,5 @@ What can be improved :
 - Déployer tous les jours de la semaine, SURTOUT le vendredi (faux, si un problème lors du déploiement le Vendredi, complications pour fix durant le week-end)
 - Set-up de web hooks pour éviter d'être surpris lors d'une erreur/crash (link git et Slack, Slack et Heroku par exemple)
 - Secret Management, avoir les logins qu'on peut retrieve facilement dans le cas où l'on perd le fichier comme aujourd'hui ("Lastpass" correspondra le mieux, étant une start-up)
-- Pour les commits : mettre en crochet les parties sur lesquels on travaille
+- Pour les commits : mettre en crochet les parties sur lesquels on travaille, et en faire le moins possible
 - Aller au Cosmos avec la P2021 (on veut une suite.)
